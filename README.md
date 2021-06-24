@@ -4,7 +4,7 @@
 ### Spam Detection adapts machine learning models to predict whether your email is spam or not. The email service rex@cloud0709.com returns a judgment showing how much the likelihood that your mail is spam with a confidence level.
 
 ## Demo Video ##
-### https://drive.google.com/file/d/1s4OPsNFnXNnzeTQZM8qUdcz6u3Up5IOb/view?usp=sharing
+### https://drive.google.com/file/d/1AvjqynWftzVqfTIcbr-hvD1WelsnmAmD/view?usp=sharing
 
 
 ## Application ##
